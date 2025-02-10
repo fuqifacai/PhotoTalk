@@ -14,5 +14,3 @@ A AIGC wechat mini program to help people generate interesting photos and videos
 ![辣妈之野望 3 -- Ollama各大模型全方位对比1](https://www.shxcj.com/wp-content/uploads/2025/02/fd8ce661-9702-4cf6-81df-e6036cd0006b.jpg)
 
 
-/wp-content/uploads/2025/01/475923fa-49af-49d5-ab13-87384166d161.png)
-
